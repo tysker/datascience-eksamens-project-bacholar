@@ -2,11 +2,7 @@
 ## Stock Exchange System
 
 <br/>
-
-* Claus Kramath - cph-ck83@cphbusiness.dk
 * Jörg Oertel - cph-jo130@cphbusiness.dk
-* Mads Wulff Nielsen - cph-mn492@cphbusiness.dk
-
 <br/>
 
 ## Projektet
