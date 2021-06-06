@@ -1,0 +1,266 @@
+{
+status: "ok",
+totalResults: 209,
+articles: [
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Matt Levine",
+title: "Money Stuff: Tesla Sold Some Bitcoins",
+description: "Also the deli, the first law of tax, a JPMorgan Bitcoin fund and Dogecoin vs. lottery tickets.",
+url: "https://www.bloomberg.com/opinion/articles/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG9SB_YRAkKg/v0/1200x729.jpg",
+publishedAt: "2021-04-28T17:15:12Z",
+content: "Tesla Bitcoin I wrote back in February: A funny thing for Elon Musk to do would be: 1. Tesla Inc. buys some Bitcoin.2. Tesla announces that Bitcoin is good now and that it bought some.3. The pri… [+24517 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "",
+title: "The Cable: International Travel, Commodities, Tesla (Podcast)",
+description: "Source: Bloomberg, 43:20",
+url: "https://www.bloomberg.com/news/audio/2021-04-26/the-cable-international-travel-commodities-tesla-podcast",
+urlToImage: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+publishedAt: "2021-04-26T17:10:48Z",
+content: "Host Guy Johnson speaks with Bloomberg Transportation Reporter Siddharth Philip, Bloomberg Opinion Columnist Therese Raphael, Bloomberg Commodities Reporter Eddie Spence, Bloomberg International Econ… [+394 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "",
+title: "Looking Forward To Tesla Earnings (Radio)",
+description: "Source: Bloomberg, 06:21",
+url: "https://www.bloomberg.com/news/audio/2021-04-26/looking-forward-to-tesla-earnings-radio",
+urlToImage: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+publishedAt: "2021-04-26T16:33:55Z",
+content: "Bloomberg Intelligence Senior Automobiles Analyst, Kevin Tynan, talks Tesla and gives a preview of earnings. Hosted by Paul Sweeney and Matt Miller. Before it's here, it's on the Bloomberg Terminal.… [+9 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Dana Hull",
+title: "Hyperdrive Daily: Tesla Beyond the Numbers",
+description: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond.",
+url: "https://www.bloomberg.com/news/newsletters/2021-04-28/hyperdrive-daily-tesla-beyond-the-numbers",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqIF2sqbE5TM/v0/1200x800.jpg",
+publishedAt: "2021-04-28T10:32:59Z",
+content: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond. News Briefs More Than Just the Numbers Teslas quarterly earnin… [+4561 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "River Davis",
+title: "From Cutesy to Cutting Edge, in China There's an EV for Everyone",
+description: "Everything from the $4,230 Hongguang Mini to Mercedes-Benz’s new Tesla challenger appeared.",
+url: "https://www.bloomberg.com/news/features/2021-04-19/shanghai-auto-show-2021-tesla-tsla-bmw-mercedes-eqs-xpeng-nio-toyota",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Kw03.uZR6o/v1/1200x800.jpg",
+publishedAt: "2021-04-19T14:45:26Z",
+content: "Sign up for our Hyperdrive newsletter that explores the future of transportation. Local and foreign automakers seeking to make inroads in the worlds largest car market are putting every iteration of… [+4815 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Peter Vercoe",
+title: "Tesla China Demand Powers Ahead With Record Registrations",
+description: "Tesla Inc.’s growth in China is powering on, with registrations of its electric cars rising to a record last month.",
+url: "https://www.bloomberg.com/news/articles/2021-04-19/tesla-china-demand-powers-ahead-with-record-registrations",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPTWuSJzHpqI/v0/1200x800.jpg",
+publishedAt: "2021-04-19T00:47:43Z",
+content: "Tesla Inc.s growth in China is powering on, with registrations of its electric cars rising to a record last month. In March, 34,635 China-built Teslas were registered in the country, according to da… [+1250 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Esha Dey",
+title: "Tesla's Stock-Market Devotees Might Get an Earnings Jolt",
+description: "Die-hard Tesla Inc. investors might be forgiven for wondering why the thrill of owning the iconic carmaker’s stock has seemingly disappeared.",
+url: "https://www.bloomberg.com/news/articles/2021-04-24/tesla-s-stock-market-devotees-might-get-an-earnings-jolt",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilaZ0vKafubc/v0/1200x800.jpg",
+publishedAt: "2021-04-24T20:00:00Z",
+content: "Die-hard Tesla Inc. investors might be forgiven for wondering why the thrill of owning the iconic carmakers stock has seemingly disappeared. After all, since catapulting over 700% last year, the s… [+3453 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Noah Buhayar",
+title: "Tesla With 'No One' Driving Crashes in Texas, Killing Two Men",
+description: "A Tesla Inc. electric car that “no one” was driving crashed late Saturday in Texas, killing the two passengers, according to local media reports.",
+url: "https://www.bloomberg.com/news/articles/2021-04-18/tesla-with-no-one-driving-crashes-in-texas-killing-two-men",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSyGq3l9JVWU/v0/1200x800.jpg",
+publishedAt: "2021-04-18T17:54:30Z",
+content: "A Tesla Inc. electric car that no one was driving crashed late Saturday in Texas, killing the two passengers, according to local media reports. One of the victims was in the front passenger seat a… [+1409 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: null,
+title: "Tesla to Set Up Database in China So Drivers Can Access Facts",
+description: "Tesla Inc. will develop a database that vehicle owners in China can use to access information generated by their electric cars.",
+url: "https://www.bloomberg.com/news/articles/2021-05-06/tesla-to-set-up-database-in-china-so-drivers-can-access-facts",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZW78POrIZ2A/v1/1200x800.jpg",
+publishedAt: "2021-05-06T06:11:40Z",
+content: "Sign up for our Hyperdrive newsletter that explores the future of transportation. Tesla Inc. will develop a database that vehicle owners in China can use to access information generated by their ele… [+1887 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Keith Laing",
+title: "NHTSA to Investigate Fatal Tesla Crash That Killed Two People",
+description: "U.S. auto safety regulators have launched a probe into the fatal crash of a Tesla Inc. Model S in Texas Saturday that local authorities said appeared to be driverless.",
+url: "https://www.bloomberg.com/news/articles/2021-04-19/nhtsa-to-investigate-fatal-tesla-crash-that-killed-two-people",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izluCUG8ly3E/v0/1200x705.jpg",
+publishedAt: "2021-04-19T15:57:32Z",
+content: "U.S. auto safety regulators have launched a probe into the fatal crash of a Tesla Inc. Model S in Texas Saturday that local authorities said appeared to be driverless. The National Highway Transport… [+687 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Katrina Nicholas",
+title: "Tesla Knocks Keep Coming as China Chides Over Vehicle Safety",
+description: "The knocks keep coming for Tesla Inc., with the electric carmaker singled out in a piece from China’s state-run Xinhua news agency that said the quality of its vehicles must meet market expectations in order to win consumers’ trust.",
+url: "https://www.bloomberg.com/news/articles/2021-04-20/tesla-knocks-keep-coming-as-china-chides-over-vehicle-safety",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTJ5IGARLMGs/v1/1200x800.jpg",
+publishedAt: "2021-04-20T04:04:28Z",
+content: "The knocks keep coming for Tesla Inc., with the electric carmaker singled out in a piece from Chinas state-run Xinhua news agency that said the quality of its vehicles must meet market expectations… [+3186 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "",
+title: "Tesla Runs on Faith, Exxon on Discipline (Podcast)",
+description: "Source: Bloomberg, 37:03",
+url: "https://www.bloomberg.com/news/audio/2021-04-19/tesla-runs-on-faith-exxon-on-discipline-podcast",
+urlToImage: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+publishedAt: "2021-04-19T20:06:03Z",
+content: "Rhett Buttle, Founder of Public Private Strategies, discusses an initiative to support small businesses to get COVID-19 vaccines for their employees. Bloomberg Businessweek Editor Joel Weber and Bloo… [+606 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Chris Bryant",
+title: "The New Mercedes Is a Mix of Tesla and Ferrari",
+description: "The German carmaker wants to marry the electric appeal of Elon Musk’s company with some high-end luxury sheen. It’s off to a racing start.",
+url: "https://www.bloomberg.com/opinion/articles/2021-04-16/the-new-mercedes-is-a-mix-of-tesla-and-ferrari",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5RlLZAEFjG4/v2/1200x676.jpg",
+publishedAt: "2021-04-16T06:30:44Z",
+content: "EQS is a more serious challenge to Tesla. VolkswagenAG caused consternation recently with a poorly executed joke about changing the company name to Voltswagen. Daimler AG is doing similar but isnt… [+4638 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Dana Hull",
+title: "Hyperdrive Daily: Why Tesla Crashes Get So Much Attention",
+description: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond.",
+url: "https://www.bloomberg.com/news/newsletters/2021-04-21/tesla-crash-calls-attention-to-carmaker-s-safety-record-regulatory-safeguards",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0nJuOU5QB_U/v0/1200x800.jpg",
+publishedAt: "2021-04-21T10:20:27Z",
+content: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond. News Briefs <ul><li>Nikola drops below the price at which its… [+4976 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: null,
+title: "Tesla Says Any Data It Collects in China Is Stored in the Nation",
+description: "Tesla Inc. has pledged to store any data it collects in China in the country, a month after its cars were banned from military complexes and housing compounds because of concerns about sensitive information being collected by cameras built into the vehicles.",
+url: "https://www.bloomberg.com/news/articles/2021-04-13/tesla-says-any-data-it-collects-in-china-is-stored-in-the-nation",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUed5nQeOwN0/v0/1200x800.jpg",
+publishedAt: "2021-04-13T10:43:23Z",
+content: "Pedestrians walk past the Tesla Inc. showroom in Shanghai. Tesla Inc. has pledged to store any data it collects in China in the country, a month after its cars were banned from military complexes … [+1606 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Katrina Nicholas, Yakob Peterseil",
+title: "Tesla Falls as China Sales Dip, Musk Polls Followers on Dogecoin",
+description: "Tesla Inc. shares slumped in early trading as fresh signs of trouble emerged for its China business while Elon Musk polled Twitter followers on whether the carmaker should accept Dogecoin.",
+url: "https://www.bloomberg.com/news/articles/2021-05-11/tesla-falls-as-china-sales-dip-musk-polls-followers-on-dogecoin",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC2Yg8LMbmuc/v0/1200x800.jpg",
+publishedAt: "2021-05-11T10:15:23Z",
+content: "Tesla Inc. shares slumped in early trading as fresh signs of trouble emerged for its China business while Elon Musk polled Twitter followers on whether the carmaker should accept Dogecoin. Chinas Pa… [+2694 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Christoph Rauwald",
+title: "Tesla's German Factory Delayed Until Next Year: Automobilwoche",
+description: "Tesla Inc.’s factory outside Berlin won’t start production before the end of January next year due to delays affecting battery pack production, according to a report by German trade magazine Automobilwoche, which cited unidentified sources close to the compan…",
+url: "https://www.bloomberg.com/news/articles/2021-05-02/tesla-s-german-factory-delayed-until-next-year-automobilwoche",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVM.kS_T9SCY/v0/1200x800.jpg",
+publishedAt: "2021-05-02T10:09:07Z",
+content: "Tesla Inc.s factory outside Berlin wont start production before the end of January next year due to delays affecting battery pack production, according to a report by German trade magazine Automobilw… [+796 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "",
+title: "The New Mercedes Is a Mix of Tesla and Ferrari: Bryant (Radio)",
+description: "Source: Bloomberg, 07:31",
+url: "https://www.bloomberg.com/news/audio/2021-04-16/the-new-mercedes-is-a-mix-of-tesla-and-ferrari-bryant-radio",
+urlToImage: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+publishedAt: "2021-04-16T18:32:31Z",
+content: "BLOOMBERG OPINION: Chris Bryant, Bloomberg Opinion industrials columnist: The New Mercedes Is a Mix of Tesla and Ferrari. Hosted by Paul Sweeney and Matt Miller (Kailey Leinz filling in for Paul Swee… [+65 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "Liam Denning",
+title: "Tesla Runs on Faith, Exxon Runs on Discipline. Only One Is Right",
+description: "CEOs Elon Musk and Darren Woods have incompatible visions and styles that belie their companies’ similar belief premiums.",
+url: "https://www.bloomberg.com/news/articles/2021-04-19/tesla-s-tsla-elon-musk-exxon-s-xom-darren-woods-on-future-of-energy",
+urlToImage: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il8RoY9Uqr1Q/v0/1200x630.jpg",
+publishedAt: "2021-04-19T09:00:37Z",
+content: "Woods and Musk. The future of energy boils down to the competing visions of a self-styled Technoking and a man so low-profile that Wikipedia isnt sure which year he was born. Elon Musk, the chi… [+8777 chars]"
+},
+{
+source: {
+id: "bloomberg",
+name: "Bloomberg"
+},
+author: "",
+title: "Bloomberg Daybreak: April 20, 2021 - Hour 1 (Radio)",
+description: "Source: Bloomberg, 42:50",
+url: "https://www.bloomberg.com/news/audio/2021-04-20/bloomberg-daybreak-april-20-2021-hour-1-radio",
+urlToImage: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+publishedAt: "2021-04-20T10:14:18Z",
+content: "Bloomberg Daybreak with Karen Moskow and Nathan Hager. GUESTS: Alex Webb Bloomberg Opinion Columnist Bloomberg/ Newsroom:Qvs London on Tesla and Netflix Enda Curran Bloomberg Journalist Bloom… [+89 chars]"
+}
+]
+}
