@@ -10,7 +10,7 @@
 
 * [Stage 1](./documents/project_stages/STAGE_1.md)
 * [Stage 2](./documents/project_stages/STAGE_2.md)
-* [Data Story](./documents/project_stages/STAGE_1.md)
+* [Data Story](./documents/DATA_STORY.md)
 
 ### **Stock predicter**
 This module will be responsible for processing historical data and based on this give an idea of the development in the course. 
